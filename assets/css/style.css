@@ -1,0 +1,32 @@
+.jumbotron{
+  background-color: blueviolet;
+}
+
+
+#start{
+  margin-top: 10%;
+  background: rgb(192, 255, 254);
+}
+
+
+body{
+  height:100%;
+  text-align: center;
+}
+
+#container{
+  border: salmon;
+  margin:2.5% auto;
+  background-color: rgba(40, 89, 252, 0.83);
+  width:960px;
+  height: 95%;
+  box-sizing: border-box;
+}
+
+
+h1{
+  font-weight: bold;
+  color:rgb(0, 217, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
